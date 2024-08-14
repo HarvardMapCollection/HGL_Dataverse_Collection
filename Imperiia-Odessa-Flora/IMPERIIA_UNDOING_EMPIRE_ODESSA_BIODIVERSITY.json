@@ -1,0 +1,47 @@
+{
+   "geoblacklight_version": "1.0",
+   "dc_identifier_s": "https://hgl-qa.harvard.edu/catalog/harvard-imperiia-undoing-empire-odessa-biodiversity",
+   "dc_title_s": "Undoing Empire: Biodiversity in Late-Imperial Odessa",  
+   "dc_description_s": "This data collection represents historic flora observations sites in the Odessa (Ukraine) region in the 1890s. This data set was produced as part of the Undoing Empire: Biodiversity in Late-Imperial Odessa project, a historical dataset collection describing the scientific observation of plant species in the region around Odessa in the late 19th century. The geospatial data files were produced as part of The Imperiia Project: A Spatial History of the Russian Empire: <a href='https://scalar.fas.harvard.edu/imperiia/'>https://scalar.fas.harvard.edu/imperiia/<a>. Data model by Kelly O'Neill, Harvard University with Davit Gasparyan, Olga Kiyan, Jackie Erlon-Baurjan (data contributors). For more information please see: Imperiia Undoing Empire Metadata Interview Transcript (<a href='https://github.com/HarvardMapCollection/HGL_Dataverse_Collection/blob/f816aafec9233a426749b31ec039f8f3ff4d643b/Imperiia-Odessa-Flora/Imperiia_Project_Undoing_Empire_Metadata_Interview.md'>https://github.com/HarvardMapCollection/HGL_Dataverse_Collection/blob/f816aafec9233a426749b31ec039f8f3ff4d643b/Imperiia-Odessa-Flora/Imperiia_Project_Undoing_Empire_Metadata_Interview.md</a>). Dataset for use with GIS software. The purpose of the Undoing Empire: Biodiversity in Late-Imperial Odessa project was to enhance and make an original contribution to knowledge of the history of biodiversity in the former Russian Empire and modern Ukraine. The project also aimed to provide a model for describing plant habitats and other non settlements, other geographical features that are not simply settlements or rivers. The project is also intended to provide a model for creating GIS data out of historical sources. The aim was to make the original primary source material more usable by ascribing a set of thematic keywords and developing the data as a relational data model, in order to make querying and filtering easier.",
+   "dc_rights_s": "Public",
+   "dct_provenance_s": "Harvard Dataverse",
+   "dct_references_s": "{\"http://schema.org/downloadUrl\":[{\"url\":\"https://demo.dataverse.org/dataset.xhtml?persistentId=doi:10.70122/FK2/IPM3CI\",\"label\":\"Odessa Flora Observations Sites (shapefiles)\"},{\"url\":\"https://demo.dataverse.org/dataset.xhtml?persistentId=doi:10.70122/FK2/FRRZJA\",\"label\":\"Odessa Flora Observations Sites (GeoJSON)\"},{\"url\":\"https://demo.dataverse.org/dataset.xhtml?persistentId=doi:10.70122/FK2/6ZTLMB\",\"label\":\"Odessa Flora Observations data files (xslx)\"},{\"url\":\"https://demo.dataverse.org/dataset.xhtml?persistentId=doi:10.70122/FK2/R6D5BP\",\"label\":\"Odessa Flora Observations documentation and codebooks\"}],\"http://schema.org/url\":\"https://hgl-qa.lib.harvard.edu/catalog/harvard-imperiia-undoing-empire-odessa-biodiversity\",\"http://www.w3.org/1999/xhtml\":\"https://mmcgee.github.io/Undoing_Empire_Metadata_readme.html\"}",
+   "layer_slug_s": "harvard-imperiia-undoing-empire-odessa-biodiversity",
+    "layer_modified_dt": "2024-08-14T00:00:00Z",
+    "dc_creator_sm": [
+      "O'Neill, Kelly",
+      "Gasparyan, Davit",
+      "Kiyan, Olga",
+      "Erlon-Baurjan, Jackie"
+    ],
+    "dc_publisher_s": "Harvard University. The Imperiia Project.",
+    "dc_type_s": "Collection",
+    "dc_subject_sm":[
+      "Plants",
+      "Biodiversity",
+      "Plants Habitat",
+      "Habitat (Ecology)",
+      "Botany",
+      "History of Science",
+      "Empire",
+      "Imperial History",
+      "Russian Empire"
+    ],
+    "dct_spatial_sm": [
+      "Odesʹka oblastʹ (Ukraine)",
+      "Odessa province",
+      "Odessa Oblast",
+      "Black Sea",
+      "Ukraine",
+      "Russian Empire"
+    ],
+    "dct_issued_s": "2023-12-05",
+    "dct_temporal_sm": [
+      "1890-1891"
+    ],
+    "solr_geom": "ENVELOPE(22.846609, 50.625743, 58.287543, 38.392645)",
+    "solr_year_i": 1890,
+    "harvard_collectionID_sm": [
+      "99011forthcoming"
+      ]
+  }

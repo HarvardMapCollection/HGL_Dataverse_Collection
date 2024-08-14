@@ -125,4 +125,4 @@ I would consider this data to be complete. I'm hoping that there will be a suppl
 
 ## Access Use or Constraints
 
-The only constraint that I would like to put on it would be a non-commercial kind of use. So, any kind of academic fair use educational stuff is absolutely great. [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+The only constraint that I would like to put on it would be a non-commercial kind of use. So, any kind of academic fair use educational stuff is absolutely great. For educational non-commercial use only. This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, CC BY-NC-SA 4.0 DEED [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)

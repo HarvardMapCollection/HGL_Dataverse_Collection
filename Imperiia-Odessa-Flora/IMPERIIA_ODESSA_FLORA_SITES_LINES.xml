@@ -35,7 +35,7 @@
 			</citeinfo>
 		</citation>
 		<descript>
-			<abstract>This data layer represents flora observations sites (lines) in the Odessa (Ukraine) region in the 1890s. This data set was produced as part of the Undoing Empire: Biodiversity in Late-Imperial Odessa project, a historical dataset collection describing the scientific observation of plant species in the region around Odessa in the late 19th century. The geospatial data files were produced as part of The Imperiia Project: A Spatial History of the Russian Empire: <a href='https://scalar.fas.harvard.edu/imperiia/'>https://scalar.fas.harvard.edu/imperiia/<a>. Data model by Kelly O'Neill, Harvard University with Davit Gasparyan, Olga Kiyan, Jackie Erlon-Baurjan (data contributors). For more information please see: Imperiia Undoing Empire Metadata Interview Transcript (<a href='https://github.com/HarvardMapCollection/HGL_Dataverse_Collection/blob/f816aafec9233a426749b31ec039f8f3ff4d643b/Imperiia-Odessa-Flora/Imperiia_Project_Undoing_Empire_Metadata_Interview.md'>https://github.com/HarvardMapCollection/HGL_Dataverse_Collection/blob/f816aafec9233a426749b31ec039f8f3ff4d643b/Imperiia-Odessa-Flora/Imperiia_Project_Undoing_Empire_Metadata_Interview.md</a>).</abstract>
+			<abstract>This data layer represents flora observations sites (lines) in the Odessa (Ukraine) region in the 1890s. This data set was produced as part of the Undoing Empire: Biodiversity in Late-Imperial Odessa project, a historical dataset collection describing the scientific observation of plant species in the region around Odessa in the late 19th century. The geospatial data files were produced as part of The Imperiia Project: A Spatial History of the Russian Empire: <a href='https://scalar.fas.harvard.edu/imperiia/'>https://scalar.fas.harvard.edu/imperiia/<a>. Data model by Kelly O'Neill, Harvard University with Davit Gasparyan, Olga Kiyan, Jackie Erlon-Baurjan (data contributors). For more information please see: Imperiia Project, Undoing Empire : metadata interview transcript (<a href='https://github.com/HarvardMapCollection/HGL_Dataverse_Collection/blob/f816aafec9233a426749b31ec039f8f3ff4d643b/Imperiia-Odessa-Flora/Imperiia_Project_Undoing_Empire_Metadata_Interview.md'>https://github.com/HarvardMapCollection/HGL_Dataverse_Collection/blob/f816aafec9233a426749b31ec039f8f3ff4d643b/Imperiia-Odessa-Flora/Imperiia_Project_Undoing_Empire_Metadata_Interview.md</a>).</abstract>
 			<purpose>Dataset for use with GIS software. The purpose of the Undoing Empire: Biodiversity in Late-Imperial Odessa project was to enhance and make an original contribution to knowledge of the history of biodiversity in the former Russian Empire and modern Ukraine. The project also aimed to provide a model for describing plant habitats and other non settlements, other geographical features that are not simply settlements or rivers. The project is also intended to provide a model for creating GIS data out of historical sources. The aim was to make the original primary source material more usable by ascribing a set of thematic keywords and developing the data as a relational data model, in order to make querying and filtering easier. </purpose>
 		</descript>
 		<timeperd>
@@ -133,10 +133,10 @@
 	</idinfo>
 	<dataqual>
 		<attracc>
-			<attraccr>See: Imperiia Undoing Empire Metadata Interview Transcript (<a href='https://github.com/HarvardMapCollection/HGL_Dataverse_Collection/blob/f816aafec9233a426749b31ec039f8f3ff4d643b/Imperiia-Odessa-Flora/Imperiia_Project_Undoing_Empire_Metadata_Interview.md'>https://github.com/HarvardMapCollection/HGL_Dataverse_Collection/blob/f816aafec9233a426749b31ec039f8f3ff4d643b/Imperiia-Odessa-Flora/Imperiia_Project_Undoing_Empire_Metadata_Interview.md</a>)</attraccr>
+			<attraccr>See: Imperiia Project, Undoing Empire : metadata interview transcript (<a href='https://github.com/HarvardMapCollection/HGL_Dataverse_Collection/blob/f816aafec9233a426749b31ec039f8f3ff4d643b/Imperiia-Odessa-Flora/Imperiia_Project_Undoing_Empire_Metadata_Interview.md'>https://github.com/HarvardMapCollection/HGL_Dataverse_Collection/blob/f816aafec9233a426749b31ec039f8f3ff4d643b/Imperiia-Odessa-Flora/Imperiia_Project_Undoing_Empire_Metadata_Interview.md</a>)</attraccr>
 		</attracc>
 		<logic>Unknown</logic>
-		<complete>See: Imperiia Undoing Empire Metadata Interview Transcript (<a href='https://github.com/HarvardMapCollection/HGL_Dataverse_Collection/blob/f816aafec9233a426749b31ec039f8f3ff4d643b/Imperiia-Odessa-Flora/Imperiia_Project_Undoing_Empire_Metadata_Interview.md'>https://github.com/HarvardMapCollection/HGL_Dataverse_Collection/blob/f816aafec9233a426749b31ec039f8f3ff4d643b/Imperiia-Odessa-Flora/Imperiia_Project_Undoing_Empire_Metadata_Interview.md</a>)</complete>
+		<complete>See: Imperiia Project, Undoing Empire : metadata interview transcript (<a href='https://github.com/HarvardMapCollection/HGL_Dataverse_Collection/blob/f816aafec9233a426749b31ec039f8f3ff4d643b/Imperiia-Odessa-Flora/Imperiia_Project_Undoing_Empire_Metadata_Interview.md'>https://github.com/HarvardMapCollection/HGL_Dataverse_Collection/blob/f816aafec9233a426749b31ec039f8f3ff4d643b/Imperiia-Odessa-Flora/Imperiia_Project_Undoing_Empire_Metadata_Interview.md</a>)</complete>
 		<posacc>
 			<horizpa>
 				<horizpar>Unknown</horizpar>
@@ -176,13 +176,13 @@
 					<citeinfo>
 						<origin>Diterikhs, M. M.</origin>
 						<pubdate>1894</pubdate>
-						<title>План города Одессы</title>
+						<title>Plan goroda Odessy = План города Одессы</title>
 						<geoform>map</geoform>
 						<pubinfo>
 							<pubplace>[Odessa?]</pubplace>
 							<publish>Gorodskoĭ zemlemi︠e︡r</publish>
 						</pubinfo>
-						<onlink>http://hdl.loc.gov/loc.gmd/g7104o.ct004006</onlink>
+						<onlink>https://lccn.loc.gov/2014592004</onlink>
 					</citeinfo>
 				</srccite>
 				<srcscale>16800</srcscale>
@@ -204,13 +204,13 @@
 						<origin>Russia. Armii︠a︡. Glavnyĭ shtab. Kartograficheskoe zavedenīe</origin>
 						<origin>Prussia (Germany). Landesaufnahme</origin>
 						<pubdate>1860-1880</pubdate>
-						<title>[Topographic maps of the European part of the Russian Empire at scale 1:126,000]</title>
+						<title>[Topograficheskie karty evropeĭskoĭ chasti Rossiĭskoĭ Imperii masstaba 1:126 000] = [Topographic maps of the European part of the Russian Empire at scale 1:126,000]</title>
 						<geoform>map</geoform>
 						<pubinfo>
 							<pubplace>[Saint Petersburg?]</pubplace>
 							<publish>[General Staff of the Russian Army]</publish>
 						</pubinfo>
-						<onlink>https://www.loc.gov/item/2017588176/</onlink>
+						<onlink>https://lccn.loc.gov/2017588176</onlink>
 					</citeinfo>
 				</srccite>
 				<srcscale>126000</srcscale>

@@ -1,4 +1,4 @@
-# Imperiia Undoing Empire Metadata Interview Transcript
+# Imperiia Project, Undoing Empire : metadata interview transcript
 
 ## Project name
 
@@ -11,7 +11,14 @@ Davit Gasparyan, Olga Kiyan, Jackie Erlon-Baurjan (data contributors)
 
 ## Point of contact 
 
-Kelly O’Neill
+Kelly O’Neill 
+email: imperiia@fas.harvard.edu
+
+## Project data access
+
+Available via Harvard Dataverse > The Imperiia Porject Data Drive:
+[https://doi.org/10.7910/DVN/GNPAYF/](https://doi.org/10.7910/DVN/GNPAYF)
+ 
 
 ## File names
 
@@ -50,8 +57,7 @@ This is a historical dataset describing the scientific observation of plant spec
 
 ## Sources
 
-### [Materialy dl︠i︡a flory ︠i︡ugo-zapadnoĭ chasti Odesskago uieda, Khersonsʹkoï guberniï : \= Material for a flora of the southwestern part of Odessa district](https://hollis.harvard.edu/primo-explore/fulldisplay?docid=01HVD\_ALMA211994871720003941\&context=L\&vid=HVD2\&lang=en\_US\&search\_scope=everything\&adaptor=Local%20Search%20Engine\&tab=everything\&query=lsr01%2Ccontains%2C990063817950203941\&mode=basic\&offset=0)
-
+### Materialy dl︠i︡a flory ︠i︡ugo-zapadnoĭ chasti Odesskago uieda, Khersonsʹkoï guberniï : \= Material for a flora of the southwestern part of Odessa district
 Shesterikov, P. S. (Petr Stepanovich) / Odessa : Typ. A. Shud'khe  
 1894  
 [https://id.lib.harvard.edu/alma/990063817950203941/catalog](https://id.lib.harvard.edu/alma/990063817950203941/catalog)
@@ -62,11 +68,22 @@ We did also rely on geonames and openstreetmap for modern location triangulating
 
 We have a couple of historical maps as well that we have been using for, for the spatial data as well. 
 
+### Plan goroda Odessy   
+sostav. gorodsk. zemlemi︠e︡r M.M. Diterikhs
+[Odessa?] : [Gorodskoĭ zemlemi︠e︡r], 1894.
+[https://lccn.loc.gov/2014592004](https://lccn.loc.gov/2014592004)
+
 One is a town plan of Odessa from 1894. It’s contemporary with the primary source. We've used that for locating a lot of the neighborhoods and little plantations around the city of Odessa. 
+
+### [Topograficheskie karty evropeĭskoĭ chasti Rossiĭskoĭ Imperii masstaba 1:126 000] = [Topographic maps of the European part of the Russian Empire at scale 1:126,000]
+Russia. Armii︠a︡. Glavnyĭ shtab. Kartograficheskoe zavedenīe
+[Saint Petersburg?] : [General Staff of the Russian Army], [1865?-1917?]
+[https://lccn.loc.gov/2017588176](https://lccn.loc.gov/2017588176)
 
 And then there are a couple of sheets from the military topographical survey of the Russian of European Russia that was conducted in the 1860s and published in the 1870s and 1880s. There are a couple of those sheets that also describe the region around Odessa and we've used those as well for locating things like where the sandy areas were and where the ravines were and things like that. 
 
-Global Biodiversity Index. Whenever we found a plant, whenever there was a plant species, we included the unique identifier from the global biodiversity index. So someone could go there, that is the authoritative place.   
+### Global Biodiversity Index. 
+Whenever we found a plant, whenever there was a plant species, we included the unique identifier from the global biodiversity index. So someone could go there, that is the authoritative place.   
 [https://gbif.org/](https://gbif.org/)
 
 ## Larger body of work
@@ -125,4 +142,6 @@ I would consider this data to be complete. I'm hoping that there will be a suppl
 
 ## Access Use or Constraints
 
-The only constraint that I would like to put on it would be a non-commercial kind of use. So, any kind of academic fair use educational stuff is absolutely great. For educational non-commercial use only. This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, CC BY-NC-SA 4.0 DEED [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+The only constraint that I would like to put on it would be a non-commercial kind of use. So, any kind of academic fair use educational stuff is absolutely great. 
+
+For educational non-commercial use only. This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, CC BY-NC-SA 4.0 DEED [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -12,7 +12,7 @@ Davit Gasparyan, Olga Kiyan, Jackie Erlon-Baurjan (data contributors)
 ## Point of contact 
 
 Kelly O’Neill 
-email: imperiia@fas.harvard.edu
+email: [imperiia@fas.harvard.edu] (mailto:imperiia@fas.harvard.edu)
 
 ## Project data access
 
@@ -57,7 +57,7 @@ This is a historical dataset describing the scientific observation of plant spec
 
 ## Sources
 
-### Materialy dl︠i︡a flory ︠i︡ugo-zapadnoĭ chasti Odesskago uieda, Khersonsʹkoï guberniï : \= Material for a flora of the southwestern part of Odessa district
+### Materialy dl︠i︡a flory ︠i︡ugo-zapadnoĭ chasti Odesskago uieda, Khersonsʹkoï guberniï = Material for a flora of the southwestern part of Odessa district
 Shesterikov, P. S. (Petr Stepanovich) / Odessa : Typ. A. Shud'khe  
 1894  
 [https://id.lib.harvard.edu/alma/990063817950203941/catalog](https://id.lib.harvard.edu/alma/990063817950203941/catalog)

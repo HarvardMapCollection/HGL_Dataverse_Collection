@@ -8,7 +8,7 @@
 				<origin>Gasparyan, Davit</origin>
 				<origin>Kiyan, Olga</origin>
 				<origin>Erlon-Baurjan, Jackie</origin>
-				<pubdate>20240814</pubdate>
+				<pubdate>20240918</pubdate>
 				<title>Flora Observations Sites (polygons), Odessa, Ukraine, 1890-1891</title>
 				<geoform>vector digital data</geoform>
 				<pubinfo>
@@ -22,7 +22,7 @@
 						<origin>Gasparyan, Davit</origin>
 						<origin>Kiyan, Olga</origin>
 						<origin>Erlon-Baurjan, Jackie</origin>
-						<pubdate>20240814</pubdate>
+						<pubdate>20240918</pubdate>
 						<title>Undoing Empire: Biodiversity in Late-Imperial Odessa</title>
 						<geoform>vector digital data</geoform>
 						<pubinfo>
@@ -219,7 +219,7 @@
 					<timeinfo>
 						<rngdates>
 							<begdate>1860</begdate>
-							<enddate>1860</enddate>
+							<enddate>1880</enddate>
 						</rngdates>
 					</timeinfo>
 					<srccurr>ground condition</srccurr>
@@ -383,14 +383,6 @@
         </attrdomv>
       </attr>
       <attr>
-        <attrlabl>OBJECTID</attrlabl>
-        <attrdef>Internal feature number.</attrdef>
-        <attrdefs>Esri</attrdefs>
-        <attrdomv>
-          <udom>Sequential unique whole numbers that are automatically generated.</udom>
-        </attrdomv>
-      </attr>
-      <attr>
         <attrlabl>Shape</attrlabl>
         <attrdef>Feature geometry.</attrdef>
         <attrdefs>Esri</attrdefs>
@@ -399,7 +391,7 @@
         </attrdomv>
       </attr>
       <attr>
-        <attrlabl>igazid</attrlabl>
+        <attrlabl>igazID</attrlabl>
         <attrdef>Imperiia gazetteer identifier. unique identifier used to enable relational database work. ascribed to source material by research team</attrdef>
         <attrdefs>Harvard University.The Imperiia Project</attrdefs>
         <attrdomv>
@@ -518,6 +510,14 @@
             <udom>number</udom>
         </attrdomv>
     </attr>
+	<attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+    </attr>
     <attr>
         <attrlabl>ID</attrlabl>
         <attrdef>identifier. unique identifier automatically assigned by nodegoat. ascribed to source material by research team</attrdef>
@@ -543,7 +543,7 @@
         </attrdomv>
     </attr>
     <attr>
-        <attrlabl>phyt_cmm</attrlabl>
+        <attrlabl>phyt_comm</attrlabl>
         <attrdef>phytonym, common. name of plant species, common English. ascribed to source material by research team</attrdef>
         <attrdefs>Harvard University.The Imperiia Project</attrdefs>
         <attrdomv>
@@ -567,7 +567,7 @@
         </attrdomv>
     </attr>
     <attr>
-        <attrlabl>hbtat</attrlabl>
+        <attrlabl>habitat</attrlabl>
         <attrdef>habitat. geographical term; corresponds with standard feature classes maintained by USGS et al. extracted from primary source</attrdef>
         <attrdefs>Harvard University.The Imperiia Project</attrdefs>
         <attrdomv>
@@ -631,7 +631,7 @@
 		</stdorder>
 	</distinfo>
 	<metainfo>
-		<metd>20240814</metd>
+		<metd>20240918</metd>
 		<metc>
 			<cntinfo>
 				<cntorgp>
